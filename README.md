@@ -1,6 +1,7 @@
 - Hello ...
 my name is Cody!
 Im a Web Developer based in florida :)
+Currently in school at Daytona State College working towards a degree in Software Engineering Technology
 
 
 
