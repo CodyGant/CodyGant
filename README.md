@@ -38,7 +38,7 @@ Currently in school at Daytona State College working towards a degree in Softwar
 <!---
 im cold...
 I am sad:(
-now im warm:)
+now im warm:) bb
 Frigg I gotta sowwy
 <!---
 CodyGant/CodyGant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
